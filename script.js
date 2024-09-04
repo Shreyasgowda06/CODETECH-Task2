@@ -12,12 +12,12 @@ let score = 0;
 
 const questions = [
     {
-        question: "What is the capital of France?",
+        question: "What is the capital of India?",
         answers: [
-            { text: "Berlin", correct: false },
-            { text: "Madrid", correct: false },
-            { text: "Paris", correct: true },
-            { text: "Rome", correct: false }
+            { text: "Banglore", correct: false },
+            { text: "Mumbai", correct: false },
+            { text: "Delhi", correct: true },
+            { text: "Kolkata", correct: false }
         ]
     },
     {
