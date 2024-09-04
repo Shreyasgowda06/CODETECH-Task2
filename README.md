@@ -1,4 +1,10 @@
 **Name:** H.H Shreyas
+**Company:** CODETECH IT SOLUTIONS
+**ID:** CT08DS6540
+**Domain:** Web development
+**Duation:** AUGUST 5th, 2024 to SEPTEMBER 5th,
+2024.
+**Mentor:** Srilakshmi
 
 # Interactive Quiz Application
 
